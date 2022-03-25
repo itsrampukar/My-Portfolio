@@ -231,6 +231,7 @@ header .follow a:hover{
     color:#666;
     font-size: 1.7rem;
     padding:.5rem 0;
+    text-align: justify;
 }
 
 .about .row-1 .content .box-container{
